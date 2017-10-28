@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello my name is version 2!");
+            Console.WriteLine("Hello my name is Death Star");
             string userinput = Console.ReadLine();
             if (userinput == "Hello") {
                 Console.WriteLine("Hello to you too!");
